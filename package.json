@@ -1,0 +1,15 @@
+{
+  "name": "curso_asincro_js",
+  "version": "1.0.0",
+  "description": "landing page con JS",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
